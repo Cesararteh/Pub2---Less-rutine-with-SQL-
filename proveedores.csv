@@ -1,0 +1,1001 @@
+id_proveedor,nombre_proveedor,producto_suministrado,telefono
+1,Almansa & Asociados S.Coop.,Corchos,216012370
+2,Construcción del Norte S.L.N.E,Uvas,305823068
+3,Soluciones LVSL S.L.,Uvas,207694799
+4,Pont y asociados S.L.N.E,Etiquetas,665040914
+5,Maricela Sarmiento Mateu S.Com.,Barriles,278997270
+6,Duran & Asociados S.C.P,Botellas,555013933
+7,Casal & Asociados S.L.,Etiquetas,296370404
+8,Soluciones COTI S.Com.,Etiquetas,270544199
+9,Manufacturas ADZ S.C.P,Botellas,226153475
+10,Bartolomé Lucena Tena S.Coop.,Etiquetas,663176380
+11,Logística DZ S.L.,Corchos,228733355
+12,María Cristina Rodríguez Rius S.A.,Botellas,772626396
+13,Promociones Casal & Asociados S.A.,Barriles,722558265
+14,Comercial Iberia S.Com.,Etiquetas,495165282
+15,Industrias Olmo y asociados S.Com.,Botellas,355765504
+16,Supermercados TAS S.A.,Etiquetas,500163143
+17,Despacho Ibérica S.L.N.E,Uvas,880446359
+18,Giralt y asociados S.Coop.,Corchos,617936838
+19,Inmobiliaria Garcés S.A.U,Corchos,298220346
+20,Logística OA S.A.,Etiquetas,879851008
+21,Fátima Boix Porras S.L.N.E,Corchos,542455058
+22,Comercial Prado S.A.T.,Barriles,832993855
+23,Banca Privada Herrero & Asociados S.L.,Botellas,742794461
+24,Restauración Castellana S.L.,Botellas,822210537
+25,Vilanova & Asociados S.A.,Barriles,250993391
+26,Finanzas Ibéricos S.L.,Uvas,897889977
+27,Logística Montes S.L.,Corchos,516594095
+28,Minería MNYJ S.C.P,Barriles,599746737
+29,Catalán y asociados S.Com.,Corchos,836984237
+30,Finanzas Mariño & Asociados S.Com.,Barriles,897076916
+31,Quero & Asociados S.Com.,Etiquetas,681001442
+32,Hnos Alonso S.A.,Barriles,665269133
+33,Industrias Baró y asociados S.A.,Corchos,117660841
+34,Desarrollo OQMI S.C.P,Uvas,668705088
+35,Inmobiliaria Integrales S.L.L.,Etiquetas,582951705
+36,Zapata y asociados S.L.,Corchos,128646191
+37,Loida Orozco Coca S.L.,Uvas,498696247
+38,Valls y Cañizares S.A.,Corchos,793586654
+39,Despacho Integrales S.L.L.,Botellas,163421357
+40,Menendez y Cabañas S.Coop.,Botellas,788349915
+41,Supermercados Nicolau y asociados S.Coop.,Botellas,722610838
+42,Manufacturas Doménech & Asociados S.Com.,Botellas,151119052
+43,Desarrollo Benavides y asociados S.L.N.E,Corchos,991253482
+44,Busquets & Asociados S.L.,Barriles,243932702
+45,Transportes Vilanova y asociados S.A.,Botellas,143297195
+46,Morán y asociados S.Coop.,Corchos,478790107
+47,Construcción UBNL S.C.P,Corchos,356437382
+48,Lisandro Planas Díaz S.A.,Corchos,130581254
+49,Amelia Valle Cueto S.A.,Barriles,69946454
+50,Promociones Alsina S.L.N.E,Barriles,7994611
+51,Grupo Barranco S.L.,Barriles,913470159
+52,Avilés y asociados S.A.,Uvas,404137337
+53,Sierra & Asociados S.A.U,Etiquetas,251292270
+54,Roberta Montero Calderon S.A.,Uvas,759885238
+55,Mora y Belmonte S.A.,Botellas,586662810
+56,Gras y asociados S.A.,Uvas,664696866
+57,Hermanos Chamorro S.Coop.,Barriles,842434212
+58,Familia Valentín S.C.P,Botellas,481327653
+59,Robledo & Asociados S.L.N.E,Barriles,554590560
+60,Bernat y asociados S.C.P,Etiquetas,800516932
+61,Construcción HPX S.L.,Botellas,448279771
+62,Despacho YB S.Coop.,Botellas,711211746
+63,Instalaciones Avanzadas S.Coop.,Botellas,383692578
+64,Natanael Plaza Ojeda S.L.,Barriles,480356978
+65,Carbonell y Torres S.L.,Botellas,719505558
+66,Jose Angel Jaén Crespo S.A.D,Corchos,627772727
+67,Hermanos Arnal S.L.N.E,Etiquetas,731785724
+68,Rocamora y Valls S.Coop.,Corchos,477707473
+69,Cándido Araujo Sebastián S.L.L.,Etiquetas,537928665
+70,Toribio Rosselló Roura S.Com.,Corchos,723711787
+71,Consultoría Integrales S.L.,Barriles,250327375
+72,Suministros Marqués y asociados S.L.,Barriles,327800548
+73,Restauración Neira S.Coop.,Barriles,670310244
+74,Familia Llanos S.Com.,Botellas,940728895
+75,Consuela Castellanos Gálvez S.A.,Corchos,205914680
+76,Alimentación Ferrero S.C.P,Etiquetas,847848540
+77,Distribuciones Lucena y asociados S.A.,Barriles,804775555
+78,Juanito Zabala Estévez S.Coop.,Uvas,757418444
+79,Industrias Integrales S.Com.,Etiquetas,765293181
+80,Comercial Valls y asociados S.A.,Corchos,617362903
+81,Supermercados Muro S.Coop.,Etiquetas,983852881
+82,Mateu y asociados S.L.,Barriles,627627273
+83,Alberdi y Arellano S.L.,Uvas,81927309
+84,Exposito y Marco S.Com.,Botellas,93820048
+85,Infraestructuras Española S.L.N.E,Botellas,909024106
+86,Farmaceútica Carro & Asociados S.L.N.E,Uvas,954021082
+87,Malo y Ruano S.L.N.E,Botellas,286527358
+88,Consultoría IFI S.Coop.,Corchos,513959540
+89,Grupo Navas S.Com.,Uvas,392555439
+90,Peña y Gisbert S.Coop.,Corchos,759621973
+91,Hermanos Castell S.A.,Corchos,435478006
+92,Infraestructuras Ferrández S.Com.,Uvas,426003418
+93,Cañas y Ramos S.L.L.,Etiquetas,478991517
+94,Soluciones Izaguirre S.Coop.,Corchos,595134147
+95,Comercial del Sur S.L.,Barriles,63035748
+96,Familia Azcona S.L.,Botellas,17494064
+97,Promociones FQCD S.A.,Etiquetas,815447236
+98,Minería EBZN S.A.,Botellas,703381755
+99,Hotel Ibéricos S.L.N.E,Etiquetas,524011271
+100,Aller y Araujo S.L.N.E,Corchos,836255762
+101,Consultoría Ibéricos S.A.,Corchos,407201631
+102,Restauración SQX S.Coop.,Etiquetas,280134781
+103,Infraestructuras Bejarano S.Coop.,Barriles,357231762
+104,Restauración Pina y asociados S.Com.,Uvas,839511304
+105,Criado & Asociados S.L.U.,Corchos,264013454
+106,Promociones Ibérica S.Com.,Corchos,312377571
+107,Inmobiliaria Llorente & Asociados S.Coop.,Uvas,204635608
+108,Despacho Rojas S.C.P,Uvas,254505514
+109,Farmaceútica Barbero y asociados S.L.,Barriles,403370046
+110,Girona y Francisco S.L.,Barriles,907443543
+111,Leandro Fuentes Alcaraz S.L.,Botellas,896914889
+112,Loreto Gimeno Blanes S.A.,Barriles,7968657
+113,Hnos Aguilera S.Com.,Uvas,210267252
+114,Grupo Cerro S.Com.,Uvas,829985354
+115,Font & Asociados S.Coop.,Etiquetas,961092804
+116,Construcción Domínguez S.Coop.,Botellas,60698629
+117,Tejero y Romero S.A.,Botellas,847989455
+118,Dominguez y asociados S.Coop.,Uvas,273334525
+119,Grupo Castañeda S.L.,Botellas,575885421
+120,Grupo Cabañas S.Coop.,Barriles,442210882
+121,José Manuel Zapata Calvo S.L.,Etiquetas,552772939
+122,María Carbajo Amador S.Coop.,Barriles,613688717
+123,Compañía Uría & Asociados S.A.,Etiquetas,632723481
+124,Priego y asociados S.A.,Barriles,924740606
+125,Piña & Asociados S.L.N.E,Botellas,8678265
+126,Logística Lara y asociados S.Coop.,Uvas,837867366
+127,Industrias Marí & Asociados S.Com.,Botellas,742700920
+128,Odalys Luján Madrigal S.L.,Etiquetas,781925938
+129,Aitor Andrade Donoso S.Com.,Corchos,738445494
+130,Rosselló y Miranda S.A.,Barriles,428894024
+131,Familia Castell S.A.,Corchos,403063147
+132,Recio y Guardia S.Coop.,Barriles,210950133
+133,Puga y Mariscal S.Com.,Botellas,211372200
+134,Despacho Avanzadas S.L.L.,Etiquetas,908985523
+135,Madrigal & Asociados S.Coop.,Corchos,233851850
+136,Comercializadora Vega & Asociados S.L.,Etiquetas,337914521
+137,Minería del Levante S.A.,Etiquetas,746629831
+138,Familia Sacristán S.L.N.E,Uvas,398509900
+139,Roca y Fonseca S.A.T.,Corchos,464401569
+140,Hotel del Norte S.L.N.E,Uvas,614738856
+141,Logística QJP S.Coop.,Botellas,675937880
+142,Bertrán y Vilar S.A.,Corchos,604756448
+143,Banco Iborra & Asociados S.L.,Botellas,665147530
+144,Suministros del Levante S.Com.,Etiquetas,969521049
+145,Alimentación Contreras & Asociados S.Com.,Barriles,328639192
+146,Rosalía Medina Portillo S.A.U,Botellas,328913598
+147,Supermercados JQ S.A.T.,Barriles,78221333
+148,Lorenza Camps Esteban S.Com.,Corchos,949658295
+149,Comercial Lledó S.Coop.,Barriles,196079704
+150,Suministros Bonet & Asociados S.A.U,Uvas,906351023
+151,Hnos Calzada S.L.L.,Uvas,522049651
+152,Hermanos Azorin S.L.,Botellas,368583214
+153,Araujo y Falcó S.A.,Corchos,462533820
+154,Robles y Agustín S.L.U.,Uvas,157887121
+155,Desarrollo Inteligentes S.L.U.,Etiquetas,439968740
+156,Soluciones Pinto & Asociados S.L.,Corchos,530996550
+157,Paz y asociados S.A.,Uvas,404385146
+158,Manuelita Palma Sáenz S.Com.,Barriles,103634384
+159,Hnos Tenorio S.L.,Barriles,756494667
+160,Desarrollo Barragán y asociados S.Coop.,Uvas,87980732
+161,Manufacturas YAEB S.A.T.,Etiquetas,636510691
+162,Tecnologías Cuadrado y asociados S.Coop.,Botellas,963294462
+163,Hermanos Cuervo S.A.T.,Corchos,181716086
+164,Héctor Arce Guzmán S.L.,Botellas,988104293
+165,Artemio Diez Pedrosa S.C.P,Corchos,678365704
+166,Tecnologías Vazquez S.L.,Uvas,745622124
+167,Promociones Inteligentes S.A.,Corchos,975226649
+168,Montenegro y Heras S.Coop.,Botellas,212992658
+169,Mercader & Asociados S.A.,Etiquetas,518356148
+170,Inversiones Ibérica S.C.P,Barriles,48772588
+171,Fernandez y Perelló S.Coop.,Botellas,193591592
+172,Compañía Terrón & Asociados S.A.U,Corchos,748917599
+173,Transportes Verdejo y asociados S.Coop.,Uvas,189274842
+174,Familia Uría S.L.,Barriles,85710837
+175,Fábrica Ibérica S.Com.,Barriles,516368395
+176,Rosario Cantero Alsina S.L.N.E,Corchos,635330370
+177,Banca Privada MVXU S.Coop.,Barriles,5005570
+178,Roldan y asociados S.L.,Etiquetas,443114450
+179,Inmobiliaria KYJ S.Com.,Uvas,311667589
+180,Hnos Piñeiro S.Coop.,Botellas,479581865
+181,Ramirez y Segovia S.Coop.,Etiquetas,158510138
+182,Familia Lillo S.A.,Botellas,480409376
+183,Isern & Asociados S.Coop.,Barriles,890613351
+184,Larrea & Asociados S.Coop.,Etiquetas,865546695
+185,Servicios Blanco S.L.U.,Etiquetas,659442999
+186,Desarrollo MR S.Com.,Barriles,165758789
+187,Luz Calderón Parra S.L.,Corchos,31311717
+188,Escolano & Asociados S.L.L.,Barriles,971391947
+189,Nicanor Bejarano Ródenas S.A.,Barriles,781727209
+190,Finanzas Carreño S.A.,Botellas,412965687
+191,Banca Privada Mas & Asociados S.L.,Botellas,551237276
+192,Paredes y Bermúdez S.Coop.,Uvas,554447133
+193,Logística Salcedo & Asociados S.A.,Barriles,740977464
+194,Cerro y Toro S.L.L.,Etiquetas,961104069
+195,Grupo Viñas S.A.,Botellas,134491406
+196,Despacho EPBY S.Com.,Uvas,80413715
+197,Elba Pizarro Nuñez S.Coop.,Barriles,288526013
+198,Consultoría Sancho S.L.N.E,Uvas,218919714
+199,Vives y Izaguirre S.Coop.,Uvas,493172907
+200,Distribuciones Ródenas S.Coop.,Botellas,361119706
+201,Instalaciones del Noroeste S.A.T.,Botellas,683670815
+202,Inmobiliaria del Norte S.L.N.E,Etiquetas,82309701
+203,Distribuciones Ibéricos S.L.N.E,Botellas,311128093
+204,Alimentación Quintero y asociados S.A.,Uvas,207805961
+205,Familia Vélez S.L.,Botellas,308534513
+206,Ródenas y Coca S.A.,Barriles,293353177
+207,Victoria Pineda Noriega S.Com.,Corchos,212516686
+208,Coll y asociados S.L.,Uvas,847563116
+209,Transportes Avanzadas S.A.,Botellas,256151544
+210,Pomares y asociados S.L.,Botellas,328253345
+211,Inversiones Pedrosa S.L.N.E,Etiquetas,506364550
+212,Luis Rincón Sáez S.Com.,Etiquetas,386755225
+213,Ochoa y asociados S.Coop.,Uvas,401833729
+214,Hnos Ramis S.L.N.E,Barriles,559592437
+215,Minería Globales S.A.,Uvas,156865963
+216,Manufacturas Avanzadas S.L.,Botellas,743988040
+217,Clímaco Español Alemany S.L.N.E,Uvas,388841403
+218,Industrias Pareja & Asociados S.L.,Corchos,632135612
+219,Comercializadora Ángel y asociados S.L.,Corchos,97048687
+220,Banco Juárez & Asociados S.A.T.,Corchos,671896880
+221,Compañía Avanzadas S.A.,Botellas,539234090
+222,Minería Llano y asociados S.Coop.,Barriles,336926688
+223,Instalaciones Casanova & Asociados S.L.,Etiquetas,937767101
+224,Supermercados del Sur S.Coop.,Barriles,876245854
+225,Montes & Asociados S.L.,Botellas,693532174
+226,Angulo y asociados S.L.,Barriles,967794181
+227,Toni Costa Paz S.Com.,Uvas,609117100
+228,Hermanos Porras S.Com.,Etiquetas,520838478
+229,Soluciones Riera S.C.P,Uvas,688181227
+230,Consultoría Ibéricos S.L.L.,Barriles,624072258
+231,Regina Madrigal Marquez S.A.U,Botellas,9259752
+232,Trujillo y Molina S.Coop.,Corchos,367699656
+233,Compañía NOER S.Coop.,Corchos,996164103
+234,Piñol y Llamas S.Coop.,Botellas,655089613
+235,Finanzas Ibéricos S.L.,Uvas,935777057
+236,Inmobiliaria Sanjuan S.L.L.,Botellas,481504552
+237,Manufacturas Española S.L.N.E,Botellas,327476578
+238,Hnos Grande S.Coop.,Barriles,720051384
+239,Servicios Codina S.Com.,Uvas,386168305
+240,Inmobiliaria Medina y asociados S.A.,Etiquetas,806800857
+241,Promociones Pina S.L.,Barriles,913632920
+242,Hermanos Armas S.Com.,Botellas,206641860
+243,Hnos Vélez S.Com.,Etiquetas,85939726
+244,Alimentación Fuente S.A.,Barriles,888030729
+245,Alimentación Garzón S.Com.,Barriles,839455494
+246,Comercializadora Seguí S.Coop.,Corchos,350826744
+247,Castelló y asociados S.L.L.,Botellas,116039062
+248,Comercializadora WNH S.Com.,Uvas,149060557
+249,Desarrollo Ibérica S.A.,Uvas,677691718
+250,Inversiones YS S.L.,Botellas,362450629
+251,Instalaciones GWPQ S.L.N.E,Etiquetas,553995897
+252,Bernad y asociados S.L.,Barriles,422408625
+253,Zaira Coll Rivas S.Coop.,Etiquetas,370273397
+254,Hnos Lara S.L.N.E,Botellas,183696358
+255,Supermercados Galindo & Asociados S.Coop.,Etiquetas,258007600
+256,Compañía Carbajo y asociados S.L.U.,Uvas,672361772
+257,Múñiz y Ruiz S.Coop.,Barriles,455396712
+258,Coloma y asociados S.L.N.E,Uvas,204431236
+259,Pomares & Asociados S.L.,Botellas,19513910
+260,Comercial IGK S.Com.,Botellas,874996184
+261,Jovita Aranda Río S.L.N.E,Etiquetas,234681751
+262,Vilar y asociados S.A.,Botellas,77358774
+263,Banco FKZ S.Coop.,Barriles,693294504
+264,Bellido & Asociados S.Com.,Barriles,214177540
+265,Infraestructuras GGYV S.Com.,Etiquetas,346520878
+266,Supermercados Española S.L.L.,Botellas,539540909
+267,Logística del Sur S.L.U.,Etiquetas,955831218
+268,Desarrollo Peñas y asociados S.A.T.,Etiquetas,604161515
+269,Hotel Palmer y asociados S.A.,Botellas,875966217
+270,Reig & Asociados S.Coop.,Botellas,593284707
+271,Bernal y Pla S.Com.,Botellas,94761870
+272,Verónica Ferrero Villalobos S.L.N.E,Etiquetas,596195772
+273,Tecnologías ZWVG S.L.,Corchos,511210821
+274,Moles & Asociados S.Com.,Botellas,827220632
+275,Supermercados España S.C.P,Corchos,42335947
+276,Suministros Lladó & Asociados S.Coop.,Uvas,499957935
+277,Banca Privada del Norte S.A.U,Barriles,232084247
+278,Iglesias y Nogueira S.A.,Botellas,799966476
+279,Supermercados Globales S.Com.,Corchos,607428281
+280,Despacho YGR S.L.,Botellas,978584328
+281,Enríquez y Reyes S.Coop.,Barriles,356295499
+282,Valls y Castellanos S.L.,Botellas,265137362
+283,Logística Velázquez S.Coop.,Barriles,402623144
+284,Maximiliano Acosta Verdú S.Coop.,Etiquetas,714305210
+285,Industrias Vera & Asociados S.A.T.,Corchos,851766699
+286,Compañía Pizarro S.L.L.,Uvas,584645852
+287,Comercial Moles & Asociados S.L.U.,Botellas,913895540
+288,Hnos Rivera S.L.L.,Corchos,77466623
+289,Vizcaíno y Lago S.Coop.,Corchos,361370636
+290,Farmaceútica Pombo & Asociados S.L.N.E,Barriles,171234340
+291,Soluciones Prada S.L.N.E,Etiquetas,904273473
+292,Manufacturas Zabala y asociados S.L.,Botellas,10056418
+293,Hermanos Piña S.L.N.E,Etiquetas,206154327
+294,Fábrica SH S.L.,Botellas,686811313
+295,Banca Privada Avanzadas S.L.,Etiquetas,111917456
+296,Alimentación Española S.L.N.E,Corchos,536121190
+297,Comercializadora QTS S.Com.,Botellas,295999164
+298,Chita Acosta Zapata S.L.N.E,Barriles,802422610
+299,Restauración Sánchez S.L.,Uvas,942397069
+300,Andrés y Juan S.Com.,Etiquetas,542353549
+301,Ocaña y Priego S.A.,Botellas,621310106
+302,Promociones XA S.A.,Barriles,48710755
+303,Familia Vallejo S.C.P,Etiquetas,33120812
+304,Flavio Antúnez Ricart S.L.,Barriles,888569707
+305,Suministros Carrillo S.A.,Corchos,503091538
+306,Distribuciones Canales S.Com.,Corchos,411266489
+307,Familia Verdugo S.L.N.E,Botellas,207737081
+308,Minería ZV S.L.N.E,Corchos,878869305
+309,Guardiola y asociados S.Coop.,Corchos,842753923
+310,América Peral Hernandez S.Coop.,Barriles,368469858
+311,Hermanos Amores S.Com.,Botellas,993985019
+312,Farmaceútica JF S.L.N.E,Etiquetas,437542150
+313,Gomis y Aramburu S.L.,Corchos,535415391
+314,Hermanos Andrade S.Coop.,Botellas,94041776
+315,Infraestructuras Guijarro y asociados S.A.,Etiquetas,317988128
+316,Tovar y Gutiérrez S.Com.,Uvas,549094586
+317,Familia Carbonell S.L.N.E,Barriles,235895973
+318,Amorós y Uribe S.Com.,Uvas,358878095
+319,Suministros RQB S.Coop.,Uvas,614070154
+320,Paulino Garriga Ariño S.A.U,Etiquetas,785861307
+321,Chus Bou Chaparro S.L.,Barriles,80919897
+322,Salvador Mas Figueroa S.Com.,Botellas,159547112
+323,Inversiones del Mediterráneo S.Coop.,Etiquetas,374248986
+324,Inmobiliaria XYS S.Coop.,Botellas,971139306
+325,Benitez & Asociados S.A.,Botellas,741130811
+326,Grupo Azcona S.L.,Barriles,702589304
+327,Tecnologías CV S.L.,Uvas,126441642
+328,Hnos Vendrell S.L.U.,Uvas,800614238
+329,Comercial Integrales S.L.,Barriles,107211721
+330,Pons y Correa S.L.,Barriles,99419074
+331,Hnos Olivé S.A.,Corchos,618862252
+332,Familia Tirado S.Coop.,Barriles,574990154
+333,Margarita Adán Espejo S.L.N.E,Etiquetas,127368357
+334,Inmobiliaria Galán S.L.,Botellas,893116435
+335,Camacho & Asociados S.L.,Corchos,921787071
+336,Inversiones NAV S.Coop.,Etiquetas,250034028
+337,Compañía Berrocal S.L.L.,Uvas,613714743
+338,Soluciones Cuevas S.Coop.,Barriles,727180742
+339,Hermanos Bermejo S.A.,Etiquetas,453488044
+340,Santos Talavera Oliver S.L.,Corchos,258252452
+341,Caridad Vigil Landa S.L.,Barriles,993101974
+342,Banca Privada SIIX S.Com.,Etiquetas,235797794
+343,Girón y Fiol S.Com.,Etiquetas,987680574
+344,Hnos Carrión S.Com.,Etiquetas,817466844
+345,Construcción Bustos S.A.,Etiquetas,331290916
+346,Consultoría Españolas S.Com.,Etiquetas,726997107
+347,Tecnologías Falcón & Asociados S.L.,Etiquetas,869620943
+348,Supermercados Almansa y asociados S.A.U,Corchos,550744449
+349,Grupo Garay S.Com.,Barriles,564321866
+350,Tecnologías Coca S.Com.,Corchos,555079566
+351,Desarrollo LSH S.L.,Botellas,776763391
+352,Supermercados Fuente y asociados S.L.N.E,Botellas,513506209
+353,Hnos Saez S.C.P,Uvas,814235223
+354,Duarte y asociados S.L.,Botellas,320623153
+355,Transportes Integrales S.L.U.,Etiquetas,38872660
+356,Hoyos y Pallarès S.A.,Uvas,176504645
+357,Grupo Villa S.Com.,Barriles,764004155
+358,Infraestructuras SLAY S.A.,Botellas,838185202
+359,Inversiones Iberia S.A.,Barriles,48381802
+360,Hnos Mesa S.A.,Barriles,68257115
+361,Industrias del Norte S.Coop.,Uvas,312515571
+362,Consultoría Torre S.Coop.,Corchos,607075589
+363,Transportes del Levante S.A.,Corchos,198326618
+364,Maza y Iborra S.A.,Botellas,501705180
+365,Instalaciones del Levante S.L.,Etiquetas,77022775
+366,Fábrica Carrión S.L.,Botellas,530682310
+367,Infraestructuras SRO S.Coop.,Uvas,772589563
+368,Cleto Valcárcel Leon S.Com.,Etiquetas,416119894
+369,Borrás y asociados S.Coop.,Corchos,805325700
+370,Espejo y Arnaiz S.Coop.,Corchos,511259045
+371,Calista Anaya Casanova S.Com.,Uvas,972692
+372,Alimentación Moya & Asociados S.A.,Barriles,460441068
+373,Fábrica Globales S.A.,Botellas,938608537
+374,Suministros Española S.Com.,Botellas,70157344
+375,Infraestructuras Novoa S.Com.,Uvas,901064832
+376,Despacho Puerta S.L.N.E,Corchos,240022588
+377,Industrias ZD S.A.,Uvas,999322938
+378,Carballo y Cerezo S.L.,Botellas,467778479
+379,Infraestructuras Gallego S.A.,Barriles,727187778
+380,Finanzas Agudo S.L.,Botellas,659556214
+381,Familia Perez S.Coop.,Botellas,361832699
+382,Alimentación WHQ S.A.T.,Barriles,878001526
+383,Distribuciones Valle S.Com.,Barriles,242655898
+384,Compañía BW S.C.P,Botellas,569785734
+385,Tecnologías Carmona S.Coop.,Corchos,758695628
+386,Banco Romeu S.Coop.,Corchos,789051009
+387,Familia Echeverría S.L.N.E,Corchos,953135453
+388,Guillen y asociados S.A.,Botellas,614393371
+389,Jovita Barroso Viña S.C.P,Botellas,6276933
+390,Hnos Abellán S.L.,Uvas,996379344
+391,Juan Manuel Matas Solano S.Coop.,Corchos,596001101
+392,Distribuciones del Noroeste S.L.L.,Corchos,505784923
+393,Tecnologías del Mediterráneo S.Coop.,Botellas,60289675
+394,Hnos Sierra S.L.U.,Etiquetas,694569256
+395,Inmobiliaria Marín & Asociados S.Coop.,Barriles,873198640
+396,Carmelita España Cruz S.A.,Barriles,514162543
+397,Minería Campoy S.Com.,Uvas,400059724
+398,Consultoría Andrés S.A.,Barriles,952426418
+399,Alcázar y asociados S.Coop.,Uvas,77970943
+400,Grupo Hernandez S.Coop.,Botellas,286882640
+401,Farmaceútica Abril & Asociados S.L.L.,Corchos,245982849
+402,Comercializadora Iberia S.A.,Botellas,40547002
+403,Monreal y Galindo S.A.,Uvas,123010092
+404,Familia Tejada S.Coop.,Corchos,787651795
+405,Quintero y Nuñez S.A.,Corchos,742726650
+406,Familia Barco S.A.T.,Barriles,997011022
+407,Hnos Gimenez S.A.,Etiquetas,784127660
+408,Soluciones SV S.Com.,Etiquetas,482139761
+409,Segismundo Aguilar Becerra S.L.,Uvas,120100730
+410,Restauración Aramburu y asociados S.A.,Corchos,838986650
+411,Banca Privada Hervás y asociados S.L.,Corchos,562073290
+412,Promociones Céspedes y asociados S.A.,Uvas,922824006
+413,Distribuciones Ayllón y asociados S.L.,Uvas,402945259
+414,Comercial Mascaró S.L.N.E,Barriles,799467253
+415,Infraestructuras Valentín S.L.,Uvas,780056866
+416,Supermercados Pino S.L.N.E,Barriles,185288592
+417,Hnos Mercader S.Coop.,Botellas,942906231
+418,Instalaciones Río & Asociados S.A.,Corchos,90347238
+419,Hermanos Alemany S.A.,Botellas,344779308
+420,Logística del Levante S.A.,Etiquetas,758499482
+421,Nilda Llorens Pellicer S.L.N.E,Barriles,852635726
+422,Tomé y Bou S.A.,Uvas,840840468
+423,Minería OLNV S.C.P,Botellas,153495481
+424,Alimentación Royo S.A.,Botellas,888128232
+425,Lluch y Costa S.L.N.E,Corchos,659819195
+426,Fábrica Estevez S.L.,Uvas,138870161
+427,Jordá y Nogueira S.C.P,Barriles,328066710
+428,Alimentación GVXP S.L.,Barriles,859614061
+429,Téllez y asociados S.L.N.E,Etiquetas,637972282
+430,Promociones IZAS S.Com.,Corchos,590840430
+431,Esteban y Molina S.Com.,Botellas,929360026
+432,Suministros Arjona S.C.P,Corchos,710521471
+433,Instalaciones Iberia S.A.,Corchos,614464568
+434,Tecnologías UOR S.A.D,Barriles,979860063
+435,Demetrio Castilla Cueto S.Com.,Corchos,601096238
+436,Desarrollo OYKA S.L.,Botellas,339650978
+437,Minería Abril S.Com.,Botellas,59411391
+438,Fábrica Integrales S.L.,Barriles,755347793
+439,Dueñas y Atienza S.A.,Botellas,71178332
+440,Hernandez y Carballo S.Com.,Barriles,266656815
+441,Instalaciones Globales S.A.,Etiquetas,334145293
+442,Abigaíl Pons Lloret S.A.,Barriles,564121621
+443,Mena y Vega S.A.,Barriles,594134082
+444,Arévalo y Oliva S.L.N.E,Etiquetas,101753129
+445,Compañía Echevarría & Asociados S.Com.,Botellas,909828100
+446,Eli Escolano Pazos S.L.L.,Corchos,345711440
+447,Burgos y Quiroga S.Coop.,Botellas,592131603
+448,Desarrollo Española S.A.,Barriles,729773667
+449,Inmobiliaria Escamilla y asociados S.L.,Barriles,236107375
+450,Familia Barón S.Coop.,Uvas,172225142
+451,Manufacturas GPN S.L.U.,Barriles,372680474
+452,Grupo Carrillo S.A.,Uvas,858488436
+453,Farmaceútica Mata S.Com.,Barriles,518192713
+454,Barriga y Vilar S.Coop.,Botellas,344282895
+455,Fajardo y Ayala S.Com.,Uvas,382911569
+456,Moles y asociados S.L.,Barriles,342004086
+457,Farmaceútica CVPW S.Com.,Etiquetas,326468915
+458,Instalaciones WXC S.Coop.,Barriles,395551064
+459,Quero y asociados S.L.N.E,Botellas,769862274
+460,Comercial OWB S.Coop.,Uvas,637745732
+461,Familia Márquez S.L.,Etiquetas,87769037
+462,Banca Privada Española S.A.,Etiquetas,718246490
+463,Querol & Asociados S.L.,Etiquetas,155594226
+464,Tecnologías Benitez S.A.D,Etiquetas,324882302
+465,Banca Privada Ríos S.Coop.,Uvas,424557497
+466,Promociones Serrano S.L.N.E,Corchos,330105625
+467,Alimentación Tejedor & Asociados S.L.L.,Corchos,106721203
+468,Hnos Ibáñez S.L.N.E,Barriles,680882567
+469,Milla y asociados S.L.N.E,Etiquetas,77689423
+470,Servicios Corral & Asociados S.Com.,Corchos,863813795
+471,Restauración Españolas S.Com.,Etiquetas,132957569
+472,Tecnologías RDJ S.L.N.E,Botellas,388240828
+473,Transportes Internacionales S.Com.,Botellas,892740902
+474,Izquierdo y asociados S.L.,Botellas,593519276
+475,Desarrollo Globales S.A.,Etiquetas,135933615
+476,Restauración Palma S.L.,Corchos,891725207
+477,Transportes QI S.L.L.,Botellas,392013057
+478,Pili Malo Huertas S.A.,Barriles,88773563
+479,Despacho Marín S.Com.,Uvas,806731970
+480,Tecnologías Barros & Asociados S.A.,Etiquetas,61654945
+481,Grupo Escamilla S.A.,Uvas,327788569
+482,Industrias Pedrosa & Asociados S.L.,Etiquetas,574997553
+483,Toro y Cazorla S.L.L.,Etiquetas,13597101
+484,Desarrollo Arnal S.A.,Botellas,294276836
+485,Promociones UV S.L.,Barriles,911719485
+486,Grupo Juliá S.L.,Etiquetas,138180895
+487,Martina Miró Mate S.Coop.,Barriles,415756851
+488,Desarrollo MZ S.A.D,Corchos,170101694
+489,Promociones Ibérica S.Com.,Barriles,261676504
+490,Quintero y asociados S.L.,Etiquetas,420264131
+491,Pedrosa y asociados S.Coop.,Corchos,489029013
+492,Figuerola y Soler S.A.,Uvas,213823568
+493,Banca Privada Solana & Asociados S.L.N.E,Uvas,327205819
+494,Menendez y asociados S.A.U,Corchos,441313389
+495,Serafina Izaguirre Córdoba S.L.N.E,Uvas,854113229
+496,Transportes del Levante S.L.N.E,Botellas,675762139
+497,Hermanos Vilar S.C.P,Uvas,616792616
+498,Amores y Quiroga S.Com.,Botellas,120217734
+499,Hermanos Linares S.Coop.,Etiquetas,198909967
+500,Sales y asociados S.Coop.,Etiquetas,516864911
+501,Nogués & Asociados S.L.L.,Uvas,961570074
+502,Ricart y asociados S.L.N.E,Uvas,917205754
+503,Taboada & Asociados S.A.,Botellas,704727233
+504,Noguera & Asociados S.L.U.,Barriles,779277426
+505,Supermercados Pomares S.Coop.,Uvas,233823401
+506,Duarte & Asociados S.L.N.E,Corchos,696206478
+507,Servicios ZC S.L.N.E,Etiquetas,943327151
+508,Girón y Guzmán S.Com.,Barriles,792270753
+509,Comercial Sáez S.Com.,Uvas,624194830
+510,Hnos Vallejo S.L.,Barriles,163316848
+511,Eduardo Montalbán Agustí S.L.,Botellas,725916764
+512,Hnos Acero S.A.,Uvas,168682464
+513,Barrios y asociados S.Coop.,Uvas,376971157
+514,Compañía del Noroeste S.A.T.,Uvas,713264594
+515,Bernabé Madrid Barragán S.Coop.,Etiquetas,762456279
+516,Banco Cañizares & Asociados S.L.N.E,Etiquetas,965983923
+517,Alimentación Ugarte & Asociados S.Com.,Botellas,33158862
+518,Luz Luján Aguado S.L.L.,Etiquetas,451002823
+519,Tecnologías Valera S.A.,Corchos,469039961
+520,Barrios & Asociados S.A.,Etiquetas,831172800
+521,Octavia Acosta Novoa S.A.,Corchos,904989821
+522,Godofredo Alcalde Samper S.A.,Corchos,535172722
+523,Gracia y Castilla S.Coop.,Uvas,392786508
+524,Reyes y asociados S.A.,Uvas,452527161
+525,Inversiones FV S.Com.,Corchos,173248655
+526,Banco ZM S.Coop.,Barriles,989279756
+527,Soler & Asociados S.A.,Botellas,149667070
+528,Tecnologías VCRA S.C.P,Botellas,838463839
+529,Domingo & Asociados S.L.,Corchos,229668946
+530,Menendez y asociados S.Coop.,Etiquetas,515097634
+531,Comercializadora USS S.Com.,Botellas,605942172
+532,Tecnologías Losa S.Coop.,Uvas,198485459
+533,Adela Nicolás Pont S.L.N.E,Etiquetas,219120311
+534,Familia Mata S.Coop.,Botellas,878863048
+535,Promociones del Norte S.Coop.,Botellas,615114513
+536,Hotel Cerdán S.C.P,Corchos,65241993
+537,Promociones Salvà & Asociados S.A.,Etiquetas,622490591
+538,Minería Globales S.Coop.,Barriles,818966519
+539,Peñas y Abascal S.Coop.,Uvas,206122914
+540,Sanabria & Asociados S.A.,Uvas,128916575
+541,Banco del Noroeste S.Coop.,Barriles,830944891
+542,Grupo Bernal S.Coop.,Barriles,783424865
+543,David Tejedor Montes S.L.,Etiquetas,350541805
+544,Distribuciones MEW S.Coop.,Corchos,402805183
+545,Construcción del Mediterráneo S.L.,Corchos,126012821
+546,Hnos Olmedo S.L.,Botellas,636455864
+547,Familia Guillén S.L.N.E,Uvas,609272751
+548,Familia Agustí S.Coop.,Etiquetas,632987631
+549,Barba & Asociados S.A.,Botellas,80996409
+550,Nicolás y Hernandez S.Com.,Corchos,336041550
+551,Promociones Mayo y asociados S.Coop.,Botellas,379023381
+552,Grupo Marín S.A.,Corchos,361719286
+553,Escamilla & Asociados S.L.N.E,Barriles,964192369
+554,Construcción Taboada & Asociados S.L.N.E,Botellas,506259968
+555,Chus Requena Querol S.A.,Etiquetas,262610171
+556,Abril Gonzalez Vallés S.A.,Uvas,889162883
+557,Marti y Caro S.Com.,Uvas,957698259
+558,Farmaceútica BYK S.L.N.E,Corchos,433488079
+559,Transportes Cifuentes S.Com.,Uvas,761243896
+560,Farmaceútica Gallardo S.Coop.,Corchos,426840204
+561,Hnos Bellido S.Com.,Uvas,656509322
+562,Restauración FC S.A.U,Uvas,789639724
+563,Comercializadora del Norte S.L.L.,Barriles,422226880
+564,Tecnologías CRR S.A.,Corchos,875308198
+565,Machado & Asociados S.L.,Corchos,21026249
+566,Elisa Paredes Manzanares S.A.,Barriles,139492115
+567,Consultoría Garzón y asociados S.L.,Uvas,945448382
+568,Familia Cabezas S.Com.,Botellas,334118575
+569,Nogués y asociados S.Com.,Uvas,388908580
+570,Ariadna Sánchez Carmona S.Com.,Uvas,832369391
+571,Graciano Antón Linares S.Coop.,Uvas,526593214
+572,Comercializadora Almagro & Asociados S.A.T.,Botellas,770858505
+573,Promociones WIBG S.Coop.,Barriles,872458659
+574,Hermanos Caparrós S.L.L.,Barriles,515655487
+575,Cuadrado y Bermudez S.Coop.,Barriles,152529255
+576,Instalaciones BT S.Com.,Corchos,582924018
+577,Desarrollo IW S.L.N.E,Etiquetas,411888346
+578,Garay y Montenegro S.L.N.E,Corchos,199808647
+579,Despacho Cortés y asociados S.Coop.,Barriles,867226291
+580,Fábrica Internacionales S.Com.,Corchos,662773394
+581,Tecnologías Puerta S.A.,Barriles,967072096
+582,Hnos Bolaños S.A.T.,Uvas,779976685
+583,Eva Piña Yáñez S.L.N.E,Uvas,318773473
+584,Familia Farré S.L.,Barriles,688845844
+585,Diego y asociados S.Coop.,Etiquetas,845359696
+586,Promociones Barberá S.C.P,Uvas,929308919
+587,Banco XLTS S.L.N.E,Uvas,651629108
+588,Fernandez y Pérez S.L.,Uvas,378008615
+589,Cabello & Asociados S.Coop.,Etiquetas,182984297
+590,Arellano y Villaverde S.Coop.,Botellas,162727530
+591,Supermercados CY S.Com.,Uvas,124047887
+592,Industrias Juárez S.Coop.,Etiquetas,41810132
+593,Desarrollo EMNU S.L.,Barriles,627744539
+594,Florina Feliu Parra S.L.,Etiquetas,608156649
+595,Tecnologías Feijoo & Asociados S.A.,Uvas,651481821
+596,Araujo y Garay S.A.,Uvas,441437386
+597,Bello y asociados S.Com.,Barriles,943266396
+598,Consultoría Prieto y asociados S.Coop.,Barriles,704309008
+599,Marita Chacón Bellido S.L.L.,Uvas,451737814
+600,Abad & Asociados S.L.,Botellas,845291535
+601,Manufacturas Villalobos & Asociados S.L.,Barriles,35833802
+602,Cecilia Bermúdez Pedrero S.Coop.,Uvas,555300405
+603,Despacho Valverde S.L.,Etiquetas,632942691
+604,Compañía RCFV S.L.N.E,Etiquetas,921011192
+605,Otilia Pavón Rebollo S.Com.,Etiquetas,954496120
+606,Transportes Oliva & Asociados S.L.N.E,Barriles,983653058
+607,Comercializadora del Norte S.L.N.E,Etiquetas,982306370
+608,Inversiones EME S.C.P,Etiquetas,994801719
+609,Desarrollo Española S.C.P,Uvas,589590205
+610,Finanzas KAKB S.A.,Corchos,651258601
+611,Servicios XFDU S.L.,Etiquetas,977874211
+612,Glauco Pol Sobrino S.L.N.E,Corchos,497661380
+613,Infraestructuras HBPL S.Coop.,Corchos,91526694
+614,Chaparro y asociados S.A.,Botellas,632087710
+615,Tecnologías Marin S.A.,Botellas,131019117
+616,Transportes RVJ S.A.,Uvas,494302241
+617,Finanzas VDBR S.Com.,Corchos,782986361
+618,Minería LDFI S.L.,Uvas,997708283
+619,Sandalio Benito Galván S.A.,Corchos,740520229
+620,Carmen Cerdá Portillo S.L.,Botellas,40249064
+621,Distribuciones Guzman S.A.,Botellas,283624749
+622,Despacho Carbonell S.Coop.,Botellas,252258598
+623,Infraestructuras Avanzadas S.L.L.,Uvas,563828854
+624,Evaristo Manuel Blanch S.Com.,Uvas,858299302
+625,Carranza y Ureña S.Com.,Botellas,728480195
+626,Grupo Montaña S.Coop.,Corchos,7494276
+627,Edgardo Báez Barranco S.C.P,Barriles,484605872
+628,Lerma y Carro S.C.P,Uvas,224390454
+629,Salvà y asociados S.A.,Barriles,314107235
+630,Juan Luis Castelló Laguna S.Coop.,Uvas,290622022
+631,Familia Oller S.Coop.,Barriles,934986631
+632,Distribuciones Talavera S.C.P,Etiquetas,921072007
+633,Tormo & Asociados S.L.N.E,Botellas,202213387
+634,Comercializadora Santamaría S.A.,Corchos,346319360
+635,Consultoría Ibérica S.Com.,Etiquetas,830709549
+636,Despacho Losada S.Coop.,Corchos,226721359
+637,Reina y Amaya S.L.N.E,Botellas,377729054
+638,Hnos Zurita S.A.,Etiquetas,50916205
+639,Suministros Avanzadas S.Coop.,Botellas,456925577
+640,Farmaceútica RJU S.L.,Botellas,113732672
+641,Plana y Flores S.Com.,Botellas,14359759
+642,Distribuciones Reig & Asociados S.Coop.,Etiquetas,904983986
+643,Falcón y asociados S.A.,Barriles,495750643
+644,Juan Perelló Bravo S.L.N.E,Botellas,344171170
+645,Hermanos Morata S.L.L.,Botellas,797598382
+646,Talleres Ibérica S.A.,Corchos,961702610
+647,Infraestructuras del Noroeste S.A.,Barriles,653920191
+648,Inversiones Gomis S.L.N.E,Barriles,723550057
+649,Martínez y asociados S.L.N.E,Corchos,853164642
+650,Fábrica del Mediterráneo S.L.U.,Etiquetas,259036004
+651,Grupo Molins S.L.,Botellas,269450504
+652,Hermanos Estevez S.L.N.E,Corchos,356406858
+653,Hnos Fuertes S.Coop.,Barriles,533328931
+654,Inversiones Ferreras S.Coop.,Etiquetas,88644316
+655,Simón Calatayud Ochoa S.Coop.,Botellas,192538509
+656,Manufacturas Camino S.L.,Barriles,722893787
+657,Despacho AT S.L.U.,Etiquetas,559434498
+658,Grupo Miró S.L.,Botellas,637900804
+659,Inocencio Bilbao Hervia S.L.N.E,Etiquetas,377271914
+660,Promociones Luz & Asociados S.Com.,Corchos,440557734
+661,Julián & Asociados S.A.,Barriles,474108895
+662,Comercial Frutos & Asociados S.Coop.,Etiquetas,274433355
+663,Cárdenas y Ferrándiz S.Coop.,Etiquetas,644107166
+664,Escribano y asociados S.A.,Barriles,899042834
+665,Lamas y asociados S.L.,Corchos,400407724
+666,Finanzas Jover S.L.N.E,Botellas,884195902
+667,Distribuciones Ibérica S.L.,Barriles,45041313
+668,Segovia y asociados S.A.U,Etiquetas,940070661
+669,Alimentación Cantón & Asociados S.Com.,Barriles,315039023
+670,Distribuciones CHXT S.L.,Uvas,501221875
+671,Desarrollo Blasco & Asociados S.L.L.,Etiquetas,455541050
+672,Tecnologías Inteligentes S.Coop.,Uvas,310959929
+673,Desarrollo Iniesta & Asociados S.Coop.,Corchos,200471892
+674,Distribuciones Pastor & Asociados S.Coop.,Uvas,287340925
+675,Suministros del Sur S.L.,Botellas,137446757
+676,Puig y Lladó S.A.,Uvas,630319449
+677,Figueroa y asociados S.L.,Barriles,925369774
+678,Inmobiliaria Barranco & Asociados S.L.,Botellas,407229352
+679,Comercial Mateo & Asociados S.C.P,Corchos,688739995
+680,Emilia Peral Frías S.L.N.E,Barriles,56765640
+681,Familia Peralta S.L.U.,Etiquetas,596940982
+682,Adelaida Gelabert Sanz S.Coop.,Etiquetas,856745516
+683,Familia Pablo S.Com.,Etiquetas,332230985
+684,Tomás Amat Duque S.L.N.E,Etiquetas,651692269
+685,Banca Privada Inteligentes S.L.,Uvas,997138486
+686,Carvajal y Serrano S.A.,Botellas,217009545
+687,Donaire & Asociados S.A.,Uvas,229963988
+688,Torralba y Granados S.Coop.,Etiquetas,850707818
+689,Tormo y asociados S.Coop.,Etiquetas,992156509
+690,Aarón Noriega Marti S.L.,Barriles,376242680
+691,Comercializadora Arjona y asociados S.Com.,Botellas,975674413
+692,Comercial Ripoll y asociados S.L.,Botellas,216719731
+693,Manufacturas Cazorla S.L.,Corchos,606912729
+694,Logística del Norte S.L.,Etiquetas,508832720
+695,Atilio Santos Suárez S.L.U.,Botellas,788599634
+696,Industrias MB S.L.N.E,Uvas,897229612
+697,Adora Ferreras Mascaró S.L.N.E,Uvas,266925036
+698,Eulalia Catalá Romero S.Com.,Botellas,746770414
+699,Vilalta & Asociados S.Coop.,Etiquetas,372283095
+700,Inmobiliaria del Mediterráneo S.Coop.,Barriles,842718125
+701,Restauración Iborra S.L.N.E,Uvas,541601480
+702,Grupo Segovia S.L.L.,Botellas,934002475
+703,Banca Privada Grau & Asociados S.Coop.,Corchos,297823190
+704,Castillo y Exposito S.A.,Barriles,830353479
+705,Hermanos Reguera S.A.D,Corchos,558786159
+706,Logística YPA S.Coop.,Barriles,102788958
+707,Consultoría Iberia S.Com.,Corchos,222332788
+708,Talleres Españolas S.L.,Corchos,379247633
+709,Suministros JSGT S.L.,Etiquetas,110325712
+710,Comercializadora NJ S.A.,Barriles,840400218
+711,Comercial Castellana S.Com.,Barriles,924009371
+712,Banca Privada Castellana S.Coop.,Barriles,7987040
+713,Garcia & Asociados S.Coop.,Etiquetas,668819573
+714,Manufacturas Cañellas S.L.N.E,Etiquetas,961539135
+715,Grupo Ramírez S.A.,Barriles,717117741
+716,Soluciones Ariño S.A.,Corchos,528207367
+717,Desarrollo del Noroeste S.Coop.,Etiquetas,57006403
+718,Logística Calzada S.Com.,Botellas,816106775
+719,Acedo y asociados S.Com.,Botellas,469014101
+720,Vergara & Asociados S.A.,Uvas,677930076
+721,Consultoría Angulo S.Coop.,Botellas,425975898
+722,Verdejo y Querol S.A.T.,Barriles,965663089
+723,Galán y asociados S.L.,Corchos,442536989
+724,Hotel SU S.Coop.,Uvas,735071297
+725,Grupo Maldonado S.Com.,Corchos,23065483
+726,Industrias WTY S.L.L.,Etiquetas,704244007
+727,Dimas Arroyo Mínguez S.A.,Barriles,221274924
+728,Servicios YJY S.Coop.,Barriles,248565989
+729,Soluciones YJFK S.A.,Botellas,884432499
+730,Industrias Pina S.Coop.,Barriles,910970052
+731,Transportes Montenegro S.Com.,Botellas,851781540
+732,Transportes SQJR S.A.,Etiquetas,307010724
+733,Hoz y asociados S.A.,Corchos,412351234
+734,Genoveva Villanueva Valenzuela S.Coop.,Barriles,58335934
+735,Banca Privada UR S.A.T.,Botellas,154702027
+736,Celso Sanz Sanmiguel S.L.,Barriles,358440973
+737,Hotel Pol & Asociados S.A.,Barriles,874171843
+738,Industrias Ibáñez S.L.N.E,Barriles,573577764
+739,Desarrollo Pellicer S.Coop.,Botellas,100500368
+740,Ramis y Barragán S.Coop.,Etiquetas,812616875
+741,Compañía Carbajo S.Coop.,Corchos,483785493
+742,Promociones Rojas y asociados S.L.N.E,Barriles,624402681
+743,Despacho Avanzadas S.A.,Uvas,735649639
+744,Inmobiliaria DZA S.Com.,Uvas,141885718
+745,Consultoría Avilés S.Coop.,Uvas,982423033
+746,Soluciones TFD S.Com.,Botellas,474891707
+747,Comercial Inteligentes S.L.,Barriles,45753653
+748,Hermanos Ferrán S.L.,Etiquetas,903471677
+749,Supermercados Ibérica S.L.L.,Uvas,801431128
+750,Familia Paniagua S.L.,Botellas,650092649
+751,Moll y asociados S.L.N.E,Botellas,815051986
+752,Hernández y Sureda S.L.U.,Corchos,543614616
+753,Benjamín Giralt Font S.Com.,Barriles,510407057
+754,Infraestructuras ILD S.A.,Botellas,104926217
+755,Mayol & Asociados S.L.,Barriles,538639991
+756,Desarrollo DL S.Com.,Barriles,397061926
+757,Higueras & Asociados S.A.T.,Botellas,908311097
+758,Supermercados Lorenzo y asociados S.L.,Uvas,840089202
+759,Torre y asociados S.A.,Barriles,759936729
+760,Pons y Roselló S.A.T.,Corchos,599738338
+761,Logística Coll S.C.P,Uvas,293949057
+762,Distribuciones Cifuentes S.L.N.E,Etiquetas,537156235
+763,Georgina Porras Carrera S.Coop.,Etiquetas,459425768
+764,Grupo Cortina S.Com.,Uvas,120959147
+765,Hnos Guzman S.L.L.,Barriles,850529335
+766,Seco & Asociados S.L.,Corchos,111420539
+767,Despacho YKKL S.L.,Botellas,43343529
+768,Banco Española S.A.,Barriles,270700433
+769,Alimentación Fabregat & Asociados S.Coop.,Uvas,793571855
+770,Familia Agullo S.L.N.E,Etiquetas,104051835
+771,Hermanos Vergara S.Coop.,Etiquetas,265216073
+772,Grupo Garmendia S.L.N.E,Botellas,28758251
+773,Minería Española S.Coop.,Barriles,851075210
+774,Ángel y Menendez S.Com.,Corchos,22117938
+775,Comercial Alcántara S.L.,Barriles,108962687
+776,Banco AB S.L.,Corchos,134209799
+777,Jose Ramón Casals Haro S.Coop.,Etiquetas,963019681
+778,Moisés Ferrándiz Coll S.L.,Uvas,347297666
+779,Tecnologías Tejedor S.C.P,Uvas,352741138
+780,Inversiones MBC S.L.,Etiquetas,48635761
+781,Comercial Española S.L.,Botellas,681681579
+782,Hermanos Carreño S.C.P,Etiquetas,280304378
+783,Supermercados Romero S.Com.,Etiquetas,264330391
+784,Minería Casares S.L.L.,Corchos,25609947
+785,Hermanos Ferrández S.C.P,Barriles,574341944
+786,Petrona Cortina Casanova S.A.,Barriles,235203054
+787,Grupo Hervia S.L.,Botellas,435911279
+788,Despacho del Sur S.L.,Uvas,150044391
+789,Familia Carreño S.A.D,Uvas,630419865
+790,Comercializadora Canals & Asociados S.Coop.,Uvas,788357215
+791,Comercial AJJQ S.A.,Uvas,8138694
+792,Alegria y Cabrera S.L.,Etiquetas,46265095
+793,Fábrica CRW S.L.N.E,Botellas,743934336
+794,Bravo y Barragán S.A.,Etiquetas,754216570
+795,Promociones Catalá S.L.L.,Corchos,64018675
+796,Olmo y Benavides S.A.U,Barriles,771454102
+797,Consultoría Pino & Asociados S.A.,Corchos,390713746
+798,Cordero y Ferrera S.A.,Barriles,872438699
+799,Rosendo Aguilar Anguita S.Com.,Etiquetas,612671398
+800,Gómez y Moliner S.A.,Uvas,900843239
+801,Supermercados Inteligentes S.Coop.,Etiquetas,568615247
+802,Baquero y Alemany S.Coop.,Corchos,700143278
+803,Grupo Campo S.Com.,Botellas,465870325
+804,Paz y Rubio S.L.,Barriles,438169116
+805,Pedrero & Asociados S.Coop.,Botellas,794239697
+806,Restauración Globales S.A.,Barriles,401293635
+807,Felix Ramírez Huguet S.Coop.,Corchos,569594128
+808,Talleres MYON S.A.,Botellas,99326517
+809,Iglesia y Barceló S.Coop.,Uvas,548898620
+810,Inversiones Ropero S.L.L.,Corchos,273860994
+811,Infraestructuras CZ S.A.,Corchos,129692250
+812,Grupo Pelayo S.L.U.,Corchos,17181209
+813,Despacho AMRY S.A.,Botellas,115284490
+814,Consultoría Moliner y asociados S.A.,Etiquetas,828556743
+815,Comercial Diéguez S.L.,Botellas,182595041
+816,Corral & Asociados S.Coop.,Etiquetas,420602423
+817,Finanzas HX S.Coop.,Corchos,735909388
+818,Inmobiliaria Miranda S.A.,Corchos,555333173
+819,Perlita Chaparro Nebot S.L.L.,Barriles,606044687
+820,Comercializadora AQ S.Coop.,Corchos,778850971
+821,Moll y asociados S.L.U.,Botellas,407418218
+822,Banco Dueñas & Asociados S.Coop.,Corchos,921882929
+823,Tecnologías Vizcaíno y asociados S.A.,Uvas,255547777
+824,Escrivá y Escudero S.L.N.E,Etiquetas,335282532
+825,Compañía Ferrán S.L.,Barriles,582734808
+826,Talleres Ballester y asociados S.Coop.,Botellas,983501059
+827,Desarrollo Aguilera y asociados S.Coop.,Etiquetas,120885026
+828,León y Palomares S.C.P,Corchos,411626123
+829,Comercializadora del Levante S.L.,Botellas,947580740
+830,José Narváez Verdú S.Coop.,Corchos,339782588
+831,Francisco & Asociados S.A.U,Uvas,65638024
+832,Inversiones Sales y asociados S.L.N.E,Corchos,393037009
+833,Manufacturas Ayuso S.A.,Uvas,203294064
+834,Inmobiliaria Rosselló y asociados S.Coop.,Corchos,665202696
+835,Industrias Espinosa S.Coop.,Barriles,334153375
+836,Velasco & Asociados S.A.,Barriles,909631425
+837,Restauración Integrales S.A.D,Barriles,170102170
+838,Talleres AEX S.L.N.E,Barriles,294135954
+839,Familia Solana S.A.,Corchos,892053688
+840,Soluciones Aguado S.Coop.,Uvas,151456690
+841,Larrea y asociados S.A.U,Uvas,769438302
+842,Compañía WM S.C.P,Barriles,72067887
+843,Desarrollo XYG S.Coop.,Uvas,936866600
+844,Despacho del Levante S.A.,Barriles,897823337
+845,Farmaceútica Baena S.Coop.,Uvas,346153840
+846,Hnos Peinado S.A.,Etiquetas,76058236
+847,Familia Escolano S.A.T.,Corchos,492352030
+848,Hermanos Morales S.L.U.,Uvas,947136418
+849,Hermanos Salcedo S.L.N.E,Barriles,233055109
+850,Manufacturas Ramón S.A.T.,Etiquetas,103967228
+851,Inmobiliaria del Norte S.Com.,Botellas,636309940
+852,Téllez y Aguiló S.A.,Corchos,488040498
+853,Hnos Bermejo S.L.L.,Barriles,447475634
+854,Somoza & Asociados S.A.,Corchos,544976818
+855,Feliciano Machado Viñas S.Com.,Etiquetas,404214408
+856,Banca Privada Beltran & Asociados S.L.,Corchos,366825486
+857,Infraestructuras Castañeda & Asociados S.L.,Botellas,941468755
+858,Infraestructuras Ayllón S.Coop.,Barriles,817555312
+859,Despacho Duque S.A.,Corchos,223164643
+860,Familia Pacheco S.L.,Barriles,263203534
+861,Inmobiliaria del Mediterráneo S.L.N.E,Uvas,956387903
+862,Hermanos Agustí S.L.N.E,Uvas,145855007
+863,Hnos Lerma S.A.,Barriles,226569244
+864,Logística LEO S.Com.,Etiquetas,246630298
+865,Juárez y Royo S.A.,Barriles,723655696
+866,Hnos Huerta S.Com.,Etiquetas,744727786
+867,Industrias Franco S.L.,Uvas,764312863
+868,Finanzas QRIH S.L.,Barriles,334002885
+869,Ponce & Asociados S.Coop.,Botellas,673249951
+870,Herminia Delgado Serna S.L.,Corchos,395442183
+871,Transportes JB S.L.,Uvas,684847054
+872,Valerio Roldan Ayala S.A.,Barriles,890325703
+873,Industrias UICP S.A.D,Uvas,72497852
+874,Gallart y asociados S.A.T.,Etiquetas,821975023
+875,Logística del Mediterráneo S.L.,Botellas,98751374
+876,Restauración Múgica S.A.,Botellas,834329677
+877,Valcárcel y Tejero S.L.L.,Botellas,986567847
+878,Campos y Gilabert S.Com.,Corchos,452929059
+879,Compañía Calderón S.Coop.,Barriles,422240978
+880,Construcción Bermejo S.Com.,Uvas,130333078
+881,Finanzas Escudero S.A.T.,Corchos,203896878
+882,Logística del Noroeste S.L.N.E,Etiquetas,6086290
+883,Dani Puga Tomas S.L.,Barriles,972482857
+884,Instalaciones Nogués S.Coop.,Botellas,330180263
+885,Nogueira y Vallés S.Com.,Corchos,716664283
+886,Infraestructuras LTP S.C.P,Barriles,589500549
+887,Comercial Internacionales S.L.,Etiquetas,439954442
+888,Teo Arranz Briones S.L.,Etiquetas,887120751
+889,Hotel Avanzadas S.L.,Barriles,781930791
+890,Servicios Talavera & Asociados S.A.U,Barriles,234103984
+891,Infraestructuras Alarcón S.A.,Barriles,14256366
+892,Grupo Baró S.Com.,Corchos,325747978
+893,Rebeca Ballester Ródenas S.L.,Barriles,111215573
+894,Fábrica Pombo & Asociados S.Coop.,Uvas,397386855
+895,Compañía Arroyo y asociados S.A.,Corchos,611842483
+896,Restauración OMF S.A.,Barriles,498078152
+897,Suministros Cabrera S.A.,Corchos,890540892
+898,Fábrica Llorens S.A.,Etiquetas,470294902
+899,Palacio y Torrents S.L.,Corchos,537089703
+900,Inversiones Ariza S.L.,Corchos,241825690
+901,Familia Pozo S.Coop.,Botellas,501879711
+902,Hermanos Santiago S.Com.,Barriles,326690516
+903,Rincón y Bartolomé S.Com.,Corchos,88818384
+904,Compañía Inteligentes S.Coop.,Corchos,438058040
+905,Finanzas Ibérica S.L.N.E,Botellas,698881811
+906,Susana Bermúdez Correa S.A.,Botellas,682472656
+907,Rubio y asociados S.L.N.E,Barriles,416270518
+908,Minería Gilabert y asociados S.L.,Barriles,868164679
+909,Mercader y Catalán S.A.T.,Uvas,689059283
+910,Compañía Tello & Asociados S.L.,Uvas,706801290
+911,Salomón Barragán Camacho S.A.,Botellas,220389493
+912,Ernesto Pina Paz S.L.,Barriles,186977268
+913,Desarrollo Osorio y asociados S.A.U,Barriles,855456026
+914,Comercializadora Española S.Coop.,Botellas,587836957
+915,Mascaró & Asociados S.C.P,Barriles,212523456
+916,Supermercados Collado & Asociados S.L.,Corchos,689988955
+917,Guiomar Royo Morales S.C.P,Barriles,3426589
+918,Manufacturas Miguel y asociados S.L.,Corchos,723421436
+919,Sedano y Mulet S.L.,Etiquetas,794479164
+920,Talleres Internacionales S.A.,Barriles,337591091
+921,Clemente & Asociados S.L.N.E,Corchos,885407670
+922,Servicios Lamas S.L.L.,Etiquetas,494523409
+923,Mesa y Naranjo S.L.N.E,Corchos,184485102
+924,Servicios Lucas y asociados S.Coop.,Corchos,298702161
+925,Restauración OY S.C.P,Uvas,264986316
+926,Victoriano Capdevila Uría S.A.,Etiquetas,263168677
+927,Hnos Duarte S.L.L.,Corchos,847547633
+928,Gutiérrez y Serna S.A.,Etiquetas,391754664
+929,Inversiones Segura S.A.,Uvas,99499895
+930,Restauración Alcázar & Asociados S.A.,Corchos,106107526
+931,Saldaña & Asociados S.L.,Barriles,261807376
+932,Tecnologías NSBE S.L.N.E,Uvas,583341902
+933,Pilar Mendizábal Agudo S.L.L.,Corchos,535227765
+934,Rogelio Pedrosa Caballero S.Coop.,Corchos,475080683
+935,Hotel del Norte S.A.U,Etiquetas,980427773
+936,Alberto Parejo Cano S.Com.,Botellas,237041105
+937,Distribuciones Bastida & Asociados S.L.,Etiquetas,406721612
+938,Familia Seco S.L.,Corchos,65143563
+939,Promociones Iberia S.L.,Etiquetas,119725882
+940,Instalaciones Maldonado & Asociados S.Coop.,Uvas,283412769
+941,Grupo Sancho S.L.,Corchos,751279774
+942,Construcción Castilla S.L.N.E,Etiquetas,998080563
+943,Alimentación Ibéricos S.L.,Barriles,299635634
+944,Alcaraz y asociados S.L.,Corchos,744883043
+945,Echevarría y Aller S.Com.,Corchos,874153449
+946,Fábrica Montoya S.A.,Uvas,474071322
+947,Servicios Pont & Asociados S.Com.,Botellas,982409185
+948,Hermanos Pellicer S.Coop.,Barriles,874681611
+949,Hnos Juan S.A.,Etiquetas,624621324
+950,Grupo Serna S.Com.,Uvas,488765565
+951,Tejada & Asociados S.Com.,Botellas,814870281
+952,Minería Bárcena y asociados S.C.P,Uvas,295370206
+953,Grupo Prats S.L.L.,Etiquetas,392594087
+954,Despacho Castellana S.A.T.,Barriles,154798957
+955,Busquets y asociados S.A.,Uvas,156943957
+956,Transportes Ibérica S.C.P,Botellas,509487524
+957,Zaida Oliver Cabezas S.L.L.,Uvas,952338921
+958,Infraestructuras del Mediterráneo S.C.P,Barriles,958606273
+959,Carrillo y Canet S.L.N.E,Etiquetas,644005580
+960,Narcisa Plana Núñez S.Coop.,Botellas,266261775
+961,Instalaciones URSQ S.Coop.,Corchos,695979193
+962,Consultoría Mercader y asociados S.A.,Botellas,787302940
+963,Gárate y Padilla S.L.L.,Barriles,510125956
+964,Carrera y Paredes S.Coop.,Corchos,558765789
+965,Servicios del Mediterráneo S.Com.,Corchos,494121414
+966,Tecnologías del Levante S.Coop.,Corchos,145733937
+967,Comercializadora Acero S.A.,Uvas,649842689
+968,Minería Águila y asociados S.L.,Botellas,388847628
+969,Desarrollo Sacristán S.Com.,Uvas,989331764
+970,Distribuciones Ayllón S.L.,Corchos,599933659
+971,Finanzas YM S.L.,Uvas,428972292
+972,Isaac Samper Mármol S.L.L.,Uvas,522433955
+973,Hermanos Clemente S.Coop.,Barriles,20117031
+974,Bayo y Sastre S.A.,Corchos,657099913
+975,Bermejo y asociados S.Com.,Barriles,171655576
+976,Familia Castejón S.A.,Botellas,386210817
+977,Lola Morera Segura S.L.N.E,Botellas,739392033
+978,Banco WZJO S.Coop.,Botellas,29892689
+979,Castilla y Castejón S.L.,Etiquetas,460780030
+980,Catalá y Corbacho S.L.U.,Etiquetas,514285338
+981,Silvia Gimeno Herrera S.L.,Corchos,51827041
+982,Industrias EX S.Coop.,Barriles,819384525
+983,Hnos Badía S.Coop.,Corchos,680393838
+984,Muro y asociados S.A.,Uvas,688199047
+985,Montenegro y Cantero S.Coop.,Etiquetas,393330751
+986,Minería UB S.L.,Botellas,723766704
+987,Banca Privada Balaguer y asociados S.A.,Uvas,457889578
+988,Gual y Campoy S.L.,Uvas,491232231
+989,Comercial Española S.A.,Barriles,27002683
+990,Consultoría ISAV S.A.T.,Botellas,212953053
+991,Hnos Sáez S.A.,Corchos,407649027
+992,Tecnologías Cañellas y asociados S.Com.,Corchos,484826240
+993,Banco CWD S.Coop.,Barriles,818039387
+994,María Pilar Madrigal Barral S.Coop.,Uvas,447526886
+995,Supermercados Company S.L.,Corchos,654340502
+996,Pazos y asociados S.Coop.,Botellas,859483785
+997,Familia Heras S.Com.,Barriles,408453644
+998,Finanzas ROZY S.A.,Corchos,62321335
+999,Villalba & Asociados S.C.P,Botellas,127416530
+1000,Farmaceútica Ibérica S.L.,Barriles,400065596

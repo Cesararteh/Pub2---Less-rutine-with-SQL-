@@ -1,0 +1,13 @@
+id_producto,nombre,tipo_producto,ano_produccion,precio_unitario,stock_actual
+1,Valle,Rosado,2024,81.79,3907
+2,Brote,Espumoso,2013,52.25,1778
+3,Deseo,Espumoso,2019,19.14,4094
+4,Oucaya,Vino Blanco,2015,75.01,1340
+5,Real,Rosado,2014,40.35,1698
+6,Distinto,Vino Blanco,2016,85.04,2583
+7,WineW,Vino Tinto,2019,21.84,4332
+8,Esmeralda,Espumoso,2010,62.35,1959
+9,Platé,Espumoso,2011,36.13,3244
+10,EmpriseWine,Rosado,2021,61.58,2821
+11,NaturalWine,Vino Blanco,2015,69.66,1597
+12,WoodWine,Rosado,2022,71.63,3983
